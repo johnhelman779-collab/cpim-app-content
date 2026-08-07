@@ -21,3 +21,11 @@ Listens on `http://localhost:3003`.
 - `GET /devices`
 - `GET /devices/:id`
 - `GET /protocols`
+
+## Status
+
+v0.1.1 — active development (device / protocol catalog).
+
+## Roadmap
+
+See [ROADMAP.md](ROADMAP.md) for this service’s 3-year track.
